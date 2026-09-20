@@ -3,10 +3,13 @@
 [![NPM Version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/@biza-ai/zatca-qr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![ZATCA Phase 2 Compliant](https://img.shields.io/badge/ZATCA-Phase%201%20%26%202%20Compliant-emerald.svg)](https://biza.app/features/zatca-e-invoicing/)
+[![Online Validator](https://img.shields.io/badge/Live%20Tool-ZATCA%20QR%20Validator-teal.svg)](https://biza.app/tools/zatca-validator)
 
 > **Zero-dependency, universal TypeScript library to encode and decode Saudi ZATCA e-invoicing Phase 1 & Phase 2 TLV QR codes.**
 > 
 > Maintained by [**BIZA App**](https://biza.app) — The AI ERP & Cloud Accounting platform for Saudi Arabia & the GCC.
+>
+> 🚀 **Visual QR Validator:** You can test and inspect your ZATCA QR codes online using the free [**BIZA ZATCA QR Validator**](https://biza.app/tools/zatca-validator) (also available in [العربية](https://biza.app/ar/tools/zatca-validator)).
 
 ---
 
