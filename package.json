@@ -1,6 +1,6 @@
 {
   "name": "@biza-ai/zatca-qr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dependency universal TypeScript library to encode and decode Saudi ZATCA e-invoicing Phase 1 & Phase 2 TLV QR codes. Works across Browser, Node.js, Deno, Bun, and Edge Workers.",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
